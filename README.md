@@ -1,5 +1,6 @@
 # AtividadeAno2_Fase6_Cap1
 
+
 ## 📌 Sobre o Projeto
 
 Este projeto implementa um sistema de Inteligência Artificial baseado em arquitetura multiagente, no qual diferentes agentes colaboram entre si para resolver uma tarefa de análise e geração de recomendações.
@@ -99,7 +100,7 @@ Como limitações, destacam-se a dependência de modelos de linguagem, possívei
 
 ## ⚙️ Tecnologias Utilizadas (Bibliotecas)
 
-OA aplicação foi desenvolvido em Python, utilizando bibliotecas específicas para integração com serviços de IA.
+A aplicação foi desenvolvido em Python, utilizando bibliotecas específicas para integração com serviços de IA.
 
 - **os** → manipulação de variáveis de ambiente  
 - **pandas** → tratamento e análise de dados  
