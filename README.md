@@ -94,6 +94,7 @@ O Agente Analista de Risco demonstrou capacidade adequada na interpretação dos
 De forma geral, o sistema foi capaz de processar entradas textuais e produzir saídas contextualizadas, simulando um fluxo de tomada de decisão automatizado. A arquitetura multiagente se mostrou eficaz ao melhorar a organização do processamento e a qualidade das respostas quando comparada a uma abordagem centralizada.
 
 Como limitações, destacam-se a dependência de modelos de linguagem, possíveis variações nas respostas e a ausência de memória persistente. Ainda assim, os resultados validam a proposta do projeto e indicam potencial para evoluções futuras, como integração com bases de dados e expansão do número de agentes.
+
 ---
 
 ## ⚙️ Tecnologias Utilizadas (Bibliotecas)
