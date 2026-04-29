@@ -142,7 +142,7 @@ Todo o fluxo de execução, incluindo o processamento de dados, treinamento do m
 
 Para uma visualização completa do funcionamento do sistema, acesse o vídeo demonstrativo no link abaixo:
 
-👉 [Assista ao vídeo do projeto](https://youtu.be/hjQX7jjAl3I)
+👉 [Assista ao vídeo do projeto](https://youtu.be/OtAOs3NqGxQ)
 
 O vídeo apresenta a execução prática do sistema, mostrando como os dados são processados e como os agentes interagem para gerar resultados de forma estruturada e automatizada.
 
